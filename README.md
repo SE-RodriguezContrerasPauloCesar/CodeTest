@@ -20,21 +20,3 @@ The concept of Django applications, handling requests and servers through socket
 5. How would you test this?
 By connecting to a server that allows me to work with the volume of inputs described in this challenge. Even getting the data through a REST API service.
 
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-Translated with www.DeepL.com/Translator (free version)
